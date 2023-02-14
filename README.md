@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a project<br>🤝 I’m looking for help with Mern developers<br>🌱 I’m currently learning React<br>💬 Ask me about Mern Stack
+🔭 I’m currently working as an Intern<br>🤝 I’m looking to work or collaborate with reputed team<br>🌱 I’m currently learning React<br>💬 Talk with me about Mern Stack and Techs
 
 
 # 💻 Tech Stack:
