@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as an Intern<br>🤝 I’m looking to work or collaborate with reputed team<br>🌱 I’m currently learning React<br>💬 Talk with me about Mern Stack and Techs
+🔭 MERN STACK DEVELOPER from Cochin,India <br>🤝 I’m looking to work or collaborate with reputed team<br>🌱 I’m currently learning React<br>💬 Talk with me about Mern Stack and Techs
 
 
 # 💻 Tech Stack:
