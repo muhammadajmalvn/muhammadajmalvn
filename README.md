@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 MERN STACK DEVELOPER from Cochin,India <br>🤝 I’m looking to work or collaborate with reputed team<br>🌱 I’m currently learning React<br>💬 Talk with me about Mern Stack and Techs
+🔭 MERN STACK DEVELOPER from Cochin,India <br>🤝 I’m looking to work or collaborate with reputed team<br>💬 Talk with me about Mern Stack and Techs
 
 
 # 💻 Tech Stack:
@@ -7,12 +7,12 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=muhammadajmalvn&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=muhammadajmalvn&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunSanthoshVS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadajmalvn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ArjunSanthoshVS&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=muhammadajmalvn&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
